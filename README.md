@@ -1,41 +1,45 @@
 <div align="center">
 
-# 🗂️ self-notes
+# 🛠️ Software Techie 101
 
-<sub>a running log of everything worth bookmarking, pulled out of browser tabs before they could die there.</sub>
+<sub>an open vault of software, tools, and tech worth knowing about. started solo, growing with whoever wants to throw something in.</sub>
 
 ```bash
 $ whoami
 raheem · cloud/devops engineer · full-stack tinkerer · open-source lurker
 
 $ cat ./manifesto.txt
-"if it's useful, it goes in the repo. if it's in the repo, it doesn't get lost."
+"if it's useful, it goes in the vault. if you've got something cool, throw it in too."
 ```
 
-![Status](https://img.shields.io/badge/status-actively_maintained-39d353?style=flat-square&logo=git&logoColor=white)
-![Made with](https://img.shields.io/badge/made_with-coffee_%26_curiosity-orange?style=flat-square)
-![Stack](https://img.shields.io/badge/topics-devops_·_cloud_·_fullstack_·_oss-1f6feb?style=flat-square)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![License](https://img.shields.io/github/license/RaheemEmad/Software-Techie-101?style=flat-square)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/RaheemEmad/Software-Techie-101?style=flat-square&color=39d353)
+![GitHub stars](https://img.shields.io/github/stars/RaheemEmad/Software-Techie-101?style=flat-square&color=yellow)
 
 </div>
 
 ---
 
-## 📦 what's in here
+## 🌟 What is this
+
+A single home for software, dev, and tech resources actually worth bookmarking, instead of scattered across fifty browser tabs and a Notes app graveyard. It started as one person's curated stash. Now it's open: if you find something cool, it belongs here too.
 
 ```
-self-notes/
+software-techie-101/
 ├── career/             job hunting, salaries, growth frameworks
-├── web-dev/            javascript, react, css & frontend — the big one
+├── web-dev/            javascript, react, css & frontend
 ├── general-dev/        devops, infra, tooling, architecture
 ├── problem-solving/    judges + training repos
 ├── self-improvement/   mindset & learning-how-to-learn
-├── books/               long-form reads
-├── podcasts/            tech audio for commutes & runs
-├── interview-prep/      question banks & guides
-└── cv-resume/            profile & resume builders
+├── books/              long-form reads
+├── podcasts/           tech audio for commutes & runs
+├── interview-prep/     question banks & guides
+└── cv-resume/          profile & resume builders
 ```
 
-> 💡 long lists are collapsed below, click `▶` to expand.
+> 💡 long lists are collapsed below, click `▶` to expand. Don't see a category for what you've got? Propose one, see [Contributing](#-contributing).
 
 ## 🧭 quick nav
 
@@ -74,7 +78,7 @@ self-notes/
 <a name="web-dev"></a>
 ## 🌐 Web Development
 
-<sub>everything frontend, JS, and React — articles, resources, and tutorials, all in one place now.</sub>
+<sub>everything frontend, JS, and React — articles, resources, and tutorials, all in one place.</sub>
 
 ### 🟨 JavaScript
 
@@ -232,6 +236,7 @@ self-notes/
 - [11 Best GitHub Repositories That Help You Become a Better Software Developer](https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become-a-better-software-developer)
 - [Why Do So Many Brands Change Their Logos and Look Like Everyone Else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
 - [Composable vs Monolithic Architecture](https://medusajs.hashnode.dev/composable-vs-monolithic-architecture)
+- Delete unused `node_modules` in a second and enjoy some free space! <sub>*(source link missing in original notes)*</sub>
 - [Git Organized: A Better Git Flow](https://dev.to/render/git-organized-a-better-git-flow-56go)
 - [Contrib Rocks](https://contrib.rocks/preview)
 - [Flaticon](https://www.flaticon.com/)
@@ -378,6 +383,31 @@ self-notes/
 
 ---
 
+## 🤝 Contributing
+
+Got something cool that belongs here? PRs and issues are both welcome, no gatekeeping.
+
+**To add a link:**
+1. Fork the repo
+2. Find the right section in `README.md` (or propose a new one if it doesn't fit anywhere)
+3. Add it as `- [Title](https://link.com)`, short title, direct link
+4. Open a PR — one line on why it's worth a slot is enough
+
+**Ground rules:**
+- Link has to work and go straight to the resource. No URL shorteners, no affiliate links.
+- One genuinely useful thing per line. Duplicates get merged.
+- If nothing fits, propose a new category instead of cramming it somewhere wrong.
+
+Not into PRs? Open an [issue](https://github.com/RaheemEmad/Software-Techie-101/issues) with the link and where it should go, and it'll get added.
+
+---
+
+## 📜 License
+
+[MIT](https://github.com/RaheemEmad/Software-Techie-101/blob/main/LICENSE) — use it, fork it, remix it.
+
+---
+
 <div align="center">
 
 ```bash
@@ -385,6 +415,6 @@ $ git log -1 --format="%cd"
 last sync: 2026
 ```
 
-<sub>found something worth adding? open a PR against future-me.</sub>
+<sub>found something worth adding? open a PR, or drop an issue. future-you (and everyone else who lands here) will thank you.</sub>
 
 </div>
