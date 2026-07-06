@@ -55,7 +55,7 @@ software-techie-101/
 ## 🎯 Career & Growth
 
 <details>
-<summary>13 links — click to expand</summary>
+<summary>14 links — click to expand</summary>
 
 - [All Internships Available](https://github.com/ACM-Alexandria-SC/Internships)
 - [List of Egyptian based companies with their stack](http://stackinfo.me/)
@@ -70,6 +70,7 @@ software-techie-101/
 - [The Ultimate Guide to Getting Paid Writing Code, Within Only 12 Months](https://tigerabrodi.hashnode.dev/become-a-software-developer-in-12-months)
 - [Swvl Engineering Growth Framework](https://docs.google.com/spreadsheets/d/1v-VX0RaI7eW9aW27jPtSl7UiibrfvtWQnh74hS0cqKk/htmlview#)
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+- [Learn by Building Projects](https://app.codecrafters.io/catalog)
 
 </details>
 
