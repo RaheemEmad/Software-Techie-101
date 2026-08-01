@@ -191,6 +191,7 @@ software-techie-101/
 **Tools & Resources**
 - [Flexbox Patterns](https://flexboxpatterns.com/)
 - [Flexbox Ninja](https://flexbox.ninja/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Playground](https://flexbox.tech/)
 - [Make Some Waves](https://getwaves.io/)
 - [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
@@ -328,8 +329,12 @@ software-techie-101/
 <summary>18 shows — click to expand</summary>
 
 - [Null++ بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
-- [Ask Developer Podcast](https://open.spotify.com/show/6G8gqVH6dW3fkMlFmuMEoR?si=bad2d2e48d4d4f8e)
+- [كلام في البرمجة](https://open.spotify.com/show/2mIGA4NMwJpYoZQN4cwQmB)
+- [تقني بحت](https://open.spotify.com/show/0KXiNLus1U3dAD2GwnMATu)
 - [قهوة عصام](https://open.spotify.com/show/57b34WqXbbPpyIJKxcQqii?si=890f04575a6a4452)
+- [A Point of Vue](https://open.spotify.com/show/01zx6sfLpseEACwHIIn50r)
+- [Ahmed Elemam](https://open.spotify.com/show/7swxkecczFgxFuovnXIp5J)
+- [Ask Developer Podcast](https://open.spotify.com/show/6G8gqVH6dW3fkMlFmuMEoR?si=bad2d2e48d4d4f8e)
 - [Sprints](https://open.spotify.com/show/3h3ssWj8Cy2s0hV8NHrf1J?si=ca922e54241b4eca)
 - [Complete Developer Podcast](https://open.spotify.com/show/6TdLKSIN3n37d8w6REhXfN?si=7570d41a3258426a)
 - [FreeCode Academy](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=065c8e4bcc3a4e9a)
