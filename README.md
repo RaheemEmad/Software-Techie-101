@@ -225,7 +225,7 @@ software-techie-101/
 <sub>devops, architecture, and tooling that isn't specifically a "web" thing.</sub>
 
 <details>
-<summary>23 links — click to expand</summary>
+<summary>24 links — click to expand</summary>
 
 - [Your Old Laptop Is Your New Database Server](https://dzone.com/articles/your-old-laptop-is-your-new-database-server)
 - [Understand MVC Architecture in 5 mins](https://www.crio.do/blog/understand-mvc-architecture/)
@@ -243,6 +243,7 @@ software-techie-101/
 - [Contrib Rocks](https://contrib.rocks/preview)
 - [Flaticon](https://www.flaticon.com/)
 - [JSON Hero](https://blog.jsonhero.io/introducing-json-hero)
+- [BestJSON JSON Diff](https://bestjson.com/json-diff)
 - [Learn Git (interactive)](https://learngitbranching.js.org/)
 - [Code Masry](http://codemasry.com/)
 - [Learn Cantrill](https://www.youtube.com/c/LearnCantrill/playlists)
